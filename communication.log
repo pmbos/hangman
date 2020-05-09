@@ -1,0 +1,30 @@
+09/05/2020 07:25:33 PM - logger_<Player name=alina/> - INFO - Sending: ATQ. src=model/player.py/tell:30
+09/05/2020 07:25:34 PM - logger_<Player name=alina/> - INFO - Sending: HB. src=model/player.py/tell:30
+09/05/2020 07:25:34 PM - logger_<Player name=alina/> - INFO - Sending: START. src=model/player.py/tell:30
+09/05/2020 07:25:34 PM - logger_<Player name=alina/> - INFO - Sending: CP;P=pascal,2. src=model/player.py/te09/05/209/05/2020 07:25:42 PM - logger_<Player name=alina/> - INFO - Sending: M=*,*,*,*,*. src=model/player.py/tell:30
+09/05/2020 07:25:43 PM - logger_<Player name=alina/> - INFO - Sending: T;P=alina,2;10. src=model/player.py/tell:30
+09/05/2020 07:25:48 PM - logger_<Player name=alina/> - INFO - <Player name=alina/> Received: G=h. src=model/player.py/listen:35
+09/05/2020 07:25:48 PM - logger_<Player name=alina/> - INFO - Sending: C=1. src=model/player.py/tell:30
+09/05/2020 07:25:48 PM - logger_<Player name=alina/> - INFO - Sending: M=h,*,*,*,*. src=model/player.py/tell:30
+09/05/2020 07:25:49 PM - logger_<Player name=alina/> - INFO - Sending: T;P=alina,2;9. src=model/player.py/tell:30
+09/05/2020 07:25:51 PM - logger_<Player name=alina/> - INFO - <Player name=alina/> Received: G=l. src=model/player.py/listen:35
+09/05/2020 07:25:51 PM - logger_<Player name=alina/> - INFO - Sending: C=1. src=model/player.py/tell:30
+09/05/2020 07:25:51 PM - logger_<Player name=alina/> - INFO - Sending: M=h,*,l,l,*. src=model/player.py/tell:30
+09/05/2020 07:25:52 PM - logger_<Player name=alina/> - INFO - Sending: T;P=alina,2;8. src=model/player.py/tell:30
+09/05/2020 009/05/2020 07:25:53 PM - logger_<Player name=pascal/> - INFO - Sending: M=h,e,l,l,*. src=model/player.py/tell:30
+09/05/2020 07:25:54 PM - logger_<Player name=pascal/> - INFO - Sending: T;P=alina,2;7. src=model/player.py/tell:30
+09/05/2020 07:25:56 PM - logger_<Player name=pascal/> - INFO - Sending: L;S=0,0. src=model/player.py/tell:30
+09/05/2020 07:25:56 PM - logger_<Player name=pascal/> - INFO - Sending: AR. src=model/player.py/tell:30
+09/05/2020 07:26:08 PM - logger_<Player name=pascal/> - INFO - <Player name=pascal/> Received: AR=0. src=model/player.py/listen:35
+09/05/2020 07:26:08 PM - logger_<Player name=pascal/> - INFO - Sending: REVOKE. src=model/player.py/tell:30
+/05/2020 07:25:55 PM - logger_<Player name=alina/> - INFO - Sending: W;S=0,0. src=model/player.py/tell:30
+09/05/2020 07:25:56 PM - logger_<Player name=alina/> - INFO - Sending: AR. src=model/player.py/tell:30
+09/05/2020 07:25:59 PM - logger_<Player name=alina/> - INFO - <Player name=alina/> Received: AR=0. src=model/player.py/listen:35
+09/05/2020 07:26:08 PM - logger_<Player name=alina/> - INFO - Sending: REVOKE. src=model/player.py/tell:30
+. src=model/player.py/listen:35
+09/05/2020 07:26:08 PM - logger_<Player name=pascal/> - INFO - Sending: AR=0. src=model/player.py/tell:30
+09/05/2020 07:26:08 PM - logger_<Player name=pascal/> - INFO - <Player name=pascal/> Received: REVOKE. src=model/player.py/listen:35
+name=alina/> Received: W;S=0,0. src=model/player.py/listen:35
+09/05/2020 07:25:56 PM - logger_<Player name=alina/> - INFO - <Player name=alina/> Received: AR. src=model/player.py/listen:35
+09/05/2020 07:25:59 PM - logger_<Player name=alina/> - INFO - Sending: AR=0. src=model/player.py/tell:30
+09/05/2020 07:26:08 PM - logger_<Player name=alina/> - INFO - <Player name=alina/> Received: REVOKE. src=model/player.py/listen:35

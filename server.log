@@ -1,0 +1,22 @@
+09/05/2020 07:25:34 PM - <GroupManager, id=1982535968176> - INFO - <Group id=1982535969472, players=[<Player name=pascal/>, <Player name=alina/>], min_players=2, in_game=True />, ready... src=server/threads/group_manager_thread/run:28
+09/05/2020 07:25:34 PM - <GroupManager, id=1982535968176> - INFO - Game started... src={SRC}/run:35
+09/05/2020 07:26:08 PM - <GroupManager, id=1982535968176> - INFO - Game <Game id=1982535970144 players=[<Player name=pascal/>, <Player name=alina/>] /> is over. Cleaned up <Game id=1982535970144 players=[<Player name=pascal/>, <Player name=alina/>] /> and <Group id=1982535969472, players=[<Player name=pascal/>, <Player name=alina/>], min_players=2, in_game=True />
+c=client/hangman_client.py/handle_server_communication:115
+09/05/2020 07:25:34 PM - CLIENT_MAIN - INFO - Received heartbeat
+09/05/2020 07:25:34 PM - CLIENT_MAIN - INFO - Received from server: START. src=client/hangman_client.py/handle_server_communication:115
+09/05/2020 07:25:35 PM - CLIENT_MAIN - INFO - Received from server: CP;P=pascal,2. src=client/hangman_client.py/handle_server_communication:115
+09/05/2020 07:25:42 PM - CLIENT_MAIN - INFO - Received from server: M=*,*,*,*,*. src=client/hangman_client.py/handle_server_communication:115
+09/05/2020 07:25:43 PM - CLIENT_MAIN - INFO - Received from server: T;P=alina,2;10. src=client/hangman_client.py/handle_server_communication:115
+09/05/2020 07:25:48 PM - CLIENT_MAIN - INFO - Received from server: C=1. src=client/hangman_client.py/handle_server_communication:115
+09/05/2020 07:25:48 PM - CLIENT_MAIN - INFO - Received from server: M=h,*,*,*,*. src=client/hangman_client.py/handle_server_communication:115
+09/05/2020 07:25:49 PM - CLIENT_MAIN - INFO - Received from server: T;P=alina,2;9. src=client/hangman_client.py/handle_server_communication:115
+09/05/2020 07:25:51 PM - CLIENT_MAIN - INFO - Received from server: C=1. src=client/hangman_client.py/handle_server_communication:115
+09/05/2020 07:25:51 PM - CLIENT_MAIN - INFO - Received from server: M=h,*,l,l,*. src=client/hangman_client.py/handle_server_communication:115
+09/05/2020 07:25:52 PM - CLIENT_MAIN - INFO - Received from server: T;P=alina,2;8. src=client/hangman_client.py/handle_server_communication:115
+09/05/2020 07:25:53 PM - CLIENT_MAIN - INFO - Received09/05/2020 07:25:53 PM - CLIENT_MAIN - INFO - Received from server: M=h,e,l,l,*. 09/05/2020 07:25:54 PM - CLIENT_MAIN - INFO - Received from se09/05/2020 07:25:54 PM - CLIENT_MAIN - INFO - Received from server: T;P=alina,2;709/05/2020 07:25:54 PM - CLIENT_MAIN - INFO - Received from serv09/05/2020 07:25:56 PM - CLIENT_MAIN - INFO - Received from server: L;S=0,0. src=client/hangman_client.py/handle_server_communication:115
+09/05/2020 07:25:56 PM - CLIENT_MAIN - INFO - Received from server: AR. src=client/hangman_client.py/handle_server_communication:115
+09/05/2020 07:26:08 PM - CLIENT_MAIN - INFO - Received from server: REVOKE. src=client/hangman_client.py/handle_server_communication:115
+09/05/2020 07:26:08 PM - CLIENT_MAIN - INFO - Disconnected from server
+:115
+09/05/2020 07:26:08 PM - CLIENT_MAIN - INFO - Received from server: REVOKE. src=client/hangman_client.py/handle_server_communication:115
+09/05/2020 07:26:08 PM - CLIENT_MAIN - INFO - Disconnected from server
