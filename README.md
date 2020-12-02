@@ -25,18 +25,18 @@ A game goes as follows
 
 ---
 
-##Contents
+## Contents
 1. Server
 2. Client
 
 ---
 
-##Server
+## Server
 This project contains a server module. The server uses a low-level
 socket implementation for communication with the client. It hosts
 a game of hangman.
 
-###Features
+### Features
 * Host a game of hangman.
 * Listen for incoming client connections.
 * Validate the connection.
@@ -47,4 +47,4 @@ a game of hangman.
 * Playing concurrent games with threads.
 * Elegant clean-up and error handling.
 
-###Structure
+### Structure
